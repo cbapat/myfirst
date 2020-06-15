@@ -72,6 +72,7 @@ public class AbsDemo {
 		Shape s2=a.new Rectangle("Blue",15,25);
 		System.out.println("Area of Circle is "+s1.area());
 		System.out.println("Area of Rectangle is "+s2.area());
+		System.out.println("Hello");
 
 	}
 
